@@ -14,10 +14,10 @@
         --> notice that we can not reassign the variable if it is declared using const
 
 
+        
  */
 
-
-        // Data Types in javascript
+// Data Types in javascript
 
 /* 
     **Primitive Data Types: **
