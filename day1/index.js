@@ -1,0 +1,1 @@
+console.log('Day one of 40 days of javascript')
