@@ -71,7 +71,7 @@ console.log("Day three has officially begun...");
                         console.log(true || true)   Output is true
                         console.log(false || true) output is true
 
-                        console.log("cow" || "horse") output is cow
+                        console.log("cow" || "horse") output is cow   ( any non-zero value is true and it can be assumed as true)
             (iii)--> ?? (Nullish Coalescing Operator)
                 --> op1 ?? op2
                     -->Rule
